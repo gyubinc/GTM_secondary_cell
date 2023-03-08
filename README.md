@@ -1,5 +1,7 @@
 # GTM_secondary_cell
 
+![image](https://user-images.githubusercontent.com/122433920/223603201-7da4fd68-31e4-4130-bc65-e09d8e408394.png)
+
 ## 프로젝트명
 
 GTM 기반 2차전지 국내 부족기술 및 세계 공백기술 추출
