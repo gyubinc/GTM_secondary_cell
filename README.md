@@ -1,6 +1,6 @@
 # GTM_secondary_cell
 
-![image](https://user-images.githubusercontent.com/122433920/223603201-7da4fd68-31e4-4130-bc65-e09d8e408394.png){: width="50%" height="50%"}
+![image](https://user-images.githubusercontent.com/122433920/223603201-7da4fd68-31e4-4130-bc65-e09d8e408394.png)
 
 ## 프로젝트명
 
